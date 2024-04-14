@@ -2,6 +2,7 @@
 下記の機能を提供します。
 - SpriteResolverのTimeline対応
 
-インストール方法
+# インストール方法
 PackageManagerから下記のgitURLを追加
-https://github.com/tanitaka-tech/SpriteResolverTimeline.git
+
+`https://github.com/tanitaka-tech/SpriteResolverTimeline.git`
