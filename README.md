@@ -1,0 +1,3 @@
+このライブラリはUnity公式の2DAnimationパッケージの拡張です。
+下記の機能を提供します。
+- SpriteResolverのTimeline対応
